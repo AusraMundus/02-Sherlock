@@ -19,6 +19,8 @@ Design: [Sherlock](https://miro.medium.com/v2/resize:fit:828/format:webp/1*-i5m4
 
 -   Github pages
 -   [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-   Image
+-   Content
 -   CSS flex
 
 ## 🧰 Getting Started
@@ -60,7 +62,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 ### 🧪 Running tests
 
-There is no tests for this project.
+There are no tests for this project.
 
 ## 🙋‍♀️ Authors
 
@@ -72,4 +74,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
-No resources.
+There are no resources for this project.
